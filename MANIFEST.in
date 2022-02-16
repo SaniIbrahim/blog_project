@@ -1,0 +1,17 @@
+include flaskr/schema.sql
+graft flaske/static
+graft flaske/templates
+global-exclude *.pyc
+
+
+
+
+
+
+
+
+
+
+
+
+
